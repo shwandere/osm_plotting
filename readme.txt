@@ -1,0 +1,2 @@
+It is my contribution for the project "Autonomous Navigation" at IIT Delhi from May 2023 to Feb 2024. 
+It contained first the analysis of the data collected on the campus. Second part was to explore the solution for map creation with point clouds obtained from stereo camera and to create solution for path planning on the basis of central line obtained from lane detection algorithm PiNet.It also includes an unfinished paper on the basis of results.
